@@ -1,0 +1,6 @@
+{
+  "name": "DarkWeb",
+  "description": "Fictional dark cyberpunk cybersecurity marketplace simulation focused on security education and awareness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
